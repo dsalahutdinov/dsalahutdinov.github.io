@@ -1,3 +1,13 @@
+
+dsalahutdinov@gmail.com, 
+[github](https://github.com/dsalahutdinov),
+[dev.to](https://dev.to/dsalahutdinov),
+[linkedin](https://www.linkedin.com/in/dmitry-salahutdinov-22128815a/),
+[twitter](https://twitter.com/dsalahutdinov1),
+[facebook](https://www.facebook.com/dsalahutdinov),
+[instagram](https://instagram.com/dsalahutdinov)
+
+
 ## Conferences
 
 ### 2020
@@ -15,12 +25,36 @@
 
 ## OpenSource
 
-- [browserslist/browserslist-useragent-ruby](https://github.com/browserslist/browserslist-useragent-ruby) Ruby Gem (author & maintainer)
-- [yabeda-rb/yabeda-puma-plugin](https://github.com/yabeda-rb/yabeda-puma-plugin) Ruby Gem (author & maintainer)
-- [logux/logux_rails/logux-rack](https://github.com/logux/logux_rails) Ruby Gem (maintainer)
+### Author & Maintainer
+- [browserslist/browserslist-useragent-ruby](https://github.com/browserslist/browserslist-useragent-ruby) Ruby Gem
+- [yabeda-rb/yabeda-puma-plugin](https://github.com/yabeda-rb/yabeda-puma-plugin) Ruby Gem 
+- [logux/logux_rails/logux-rack](https://github.com/logux/logux_rails) Ruby Gem 
 - [dsalahutdinov/screenshot](https://github.com/dsalahutdinov/screenshot)
 - [dsalahutdinov/activerecord-data_integrity](https://github.com/dsalahutdinov/activerecord-data_integrity)
 
+### Contributor
+
+Ruby:
+[mperham/sidekiq](https://github.com/mperham/sidekiq/commits?author=dsalahutdinov),
+[ossert/ossert](https://github.com/ossert/ossert/commits?author=dsalahutdinov),
+[sferic/twitter](https://github.com/sferik/twitter/commits?author=dsalahutdinov),
+[yabeda-rb/yabeda-sidekiq](https://github.com/yabeda-rb/yabeda-sidekiq/commits?author=dsalahutdinov),
+[palkan/isolator](https://github.com/palkan/isolator/commits?author=dsalahutdinov),
+[palkan/anyway_config](https://github.com/palkan/anyway_config/commits?author=dsalahutdinov),
+[palkan/n_plus_one_control](https://github.com/palkan/n_plus_one_control/commits?author=dsalahutdinov),
+[aderyabin/sniffer](https://github.com/aderyabin/sniffer/commits?author=dsalahutdinov),
+[hanami/events](https://github.com/hanami/events/commits?author=dsalahutdinov),
+[gazay/gon](https://github.com/gazay/gon/commits?author=dsalahutdinov),
+[philnash/bitly](https://github.com/philnash/bitly/commits?author=dsalahutdinov),
+[binarylogic/authlogic](https://github.com/binarylogic/authlogic/commits?author=dsalahutdinov)
+
+Go:
+[aacebedo/dnsdock](https://github.com/aacebedo/dnsdock/pull/100),
+[mailhog/storage](https://github.com/mailhog/storage/pull/8),
+[asciimoo/wuzz](https://github.com/asciimoo/wuzz/commits?author=dsalahutdinov)
+
+Kubernetes:
+[GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold/commits?author=dsalahutdinov)
 
 ## About myself
 
