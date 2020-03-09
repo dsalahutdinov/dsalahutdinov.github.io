@@ -1,4 +1,4 @@
-<img src="/assets/images/me.jpg" style="width: 100px; height: 100px;" />
+<img src="/assets/images/me.jpg" style="width: 100px; height: 100px;" alt="Dmitry Salahutdinov" />
 Ruby developer, Golang beginner, testing fan, simplicity propagandist.
 
 I work as Lead Backend Developer for [Amplifr](https://amplifr.com), the social media automation service.
