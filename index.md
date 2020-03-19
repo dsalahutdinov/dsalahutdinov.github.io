@@ -33,6 +33,7 @@ You can find me on [github](https://github.com/dsalahutdinov),
 ### Author & Maintainer
 - [browserslist/browserslist-useragent-ruby](https://github.com/browserslist/browserslist-useragent-ruby): use [Browserslist](https://github.com/browserslist/browserslist) config in a Ruby project to check user agent string.
 - [yabeda-rb/yabeda-puma-plugin](https://github.com/yabeda-rb/yabeda-puma-plugin): built-in metrics for [Puma](https://github.com/puma/puma) web server monitoring out of the box! Part of the [Yabeda](https://github.com/yabeda-rb/yabeda) suite.
+- [yabeda-rb/yabeda-http_requests](https://github.com/yabeda-rb/yabeda-http_requests): collect metrics of external HTTP/HTTPS requsts.
 - [logux/logux_rails](https://github.com/logux/logux_rails), [logux/logux-rack](https://github.com/logux/logux-rack): Intergrate [Logux](https://logux.io/) within Rack/Rails application.
 - [dsalahutdinov/screenshot](https://github.com/dsalahutdinov/screenshot): browsers's screenshot generation HTTP-service. Written with Golang. Uses Headless Chrome.
 - [dsalahutdinov/activerecord-data_integrity](https://github.com/dsalahutdinov/activerecord-data_integrity): check data integrity for your ActiveRecord models.
