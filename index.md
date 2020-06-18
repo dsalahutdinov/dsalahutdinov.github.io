@@ -13,10 +13,11 @@ You can find me on [github](https://github.com/dsalahutdinov),
 [instagram](https://instagram.com/dsalahutdinov).
 
 
-## Conferences
+## Conferences & Meetups (I spoke at)
 
 ### 2020
 
+- [DevTalks Romania Reimaged](https://www.devtalks.ro/) online: "Product metrics for developers"
 - [Saint P Ruby community Winter Meetup](https://kommunity.com/saintpruby/events/rubyday-2020): "Kubernetes native Ruby development" ( [slides](https://speakerdeck.com/dsalahutdinov/kubernetes-native-ruby-development), [video](https://youtu.be/H3SafkpBQ_w?t=9056) )
 
   
@@ -28,7 +29,7 @@ You can find me on [github](https://github.com/dsalahutdinov),
 - [RubyConfBy](https://rubyconference.by/2019): "Optimistic UI with Logux & Ruby" ( [slides](https://speakerdeck.com/dsalahutdinov/optimistic-ui-with-logux-and-ruby), [video](https://www.youtube.com/watch?v=i_E-CeUb6ek) )
 - [Wroclove.rb](https://wrocloverb.com/): "Optimistic UI and Live updates with Logux and Ruby" ( [slides](https://speakerdeck.com/dsalahutdinov/optimistic-ui-and-live-updates-with-logux-and-ruby), [video](https://www.youtube.com/watch?v=KVcZAfjWtYk) )
 
-## OpenSource
+## Open Source (I contributed to)
 
 ### Author & Maintainer
 - [browserslist/browserslist-useragent-ruby](https://github.com/browserslist/browserslist-useragent-ruby): use [Browserslist](https://github.com/browserslist/browserslist) config in a Ruby project to check user agent string.
