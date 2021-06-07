@@ -15,9 +15,13 @@ You can find me on [github](https://github.com/dsalahutdinov),
 
 ## Conferences & Meetups (I spoke at)
 
+### 2021
+
+- [SaintP Ruby Conference](https://kommunity.com/saintpruby/events/summer-saint-p-rubyconf-2021-dbba253c) "Fullstack monitoring" ( [slides](https://speakerdeck.com/dsalahutdinov/fullstack-monitoring), [video](https://youtu.be/MIX8S3n9Nwc?t=22112) )
+
 ### 2020
 
-- [RubyDay.it](https://2020.rubyday.it/) online: "Product metrics for developers", [video](https://www.youtube.com/watch?v=4E1tEH4NTZU&list=PLWK9j6ps_unl0S5Xmi6FVfDLFUkntQTfK&index=5)
+- [RubyDay.it](https://2020.rubyday.it/) online: "Product metrics for developers", ( [video](https://www.youtube.com/watch?v=4E1tEH4NTZU&list=PLWK9j6ps_unl0S5Xmi6FVfDLFUkntQTfK&index=5) )
 - [DevTalks Romania Reimaged](https://www.devtalks.ro/) online: "Product metrics for developers"
 - [Saint P Ruby community Winter Meetup](https://kommunity.com/saintpruby/events/rubyday-2020): "Kubernetes native Ruby development" ( [slides](https://speakerdeck.com/dsalahutdinov/kubernetes-native-ruby-development), [video](https://youtu.be/H3SafkpBQ_w?t=9056) )
   
