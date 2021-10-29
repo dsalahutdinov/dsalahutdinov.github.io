@@ -1,7 +1,15 @@
-<img src="/assets/images/me.jpg" style="width: 100px; height: 100px;" alt="Dmitry Salahutdinov" />
+<img src="/assets/images/me.jpg" style="float: left; padding-right:  10px; width: 100px; height: 100px;" alt="Dmitry Salahutdinov" />
+
 Ruby developer, Golang beginner, testing fan, simplicity propagandist.
 
-I work as Lead Backend Developer for [Amplifr](https://amplifr.com), the social media automation service.
+I am the passionate backend engineer with a mathematical background.
+
+I'm mostly about technical stuff, but my other passion - is measurement: I love product development.
+
+I live in the middle of Russia, in a small village in the Ural Mountains. I love to enjoy nature and spending time with my family of 3 kids.
+
+As the Ruby developer, I am in OSS. I contribute as quite as a ninja, after midnight when all the children got asleep. 
+
 
 Email: dsalahutdinov@gmail.com
 
@@ -21,6 +29,7 @@ You can find me on [github](https://github.com/dsalahutdinov),
 
 ### 2020
 
+- [RubyRussia](https://rubyrussia.club/), "Ruby & Enterprise development" discussion.
 - [RubyDay.it](https://2020.rubyday.it/) online: "Product metrics for developers", ( [video](https://www.youtube.com/watch?v=4E1tEH4NTZU&list=PLWK9j6ps_unl0S5Xmi6FVfDLFUkntQTfK&index=5) )
 - [DevTalks Romania Reimaged](https://www.devtalks.ro/) online: "Product metrics for developers"
 - [Saint P Ruby community Winter Meetup](https://kommunity.com/saintpruby/events/rubyday-2020): "Kubernetes native Ruby development" ( [slides](https://speakerdeck.com/dsalahutdinov/kubernetes-native-ruby-development), [video](https://youtu.be/H3SafkpBQ_w?t=9056) )
@@ -36,20 +45,23 @@ You can find me on [github](https://github.com/dsalahutdinov),
 ## Open Source (I contributed to)
 
 ### Author & Maintainer
-- [browserslist/browserslist-useragent-ruby](https://github.com/browserslist/browserslist-useragent-ruby): use [Browserslist](https://github.com/browserslist/browserslist) config in a Ruby project to check user agent string.
 - [yabeda-rb/yabeda-puma-plugin](https://github.com/yabeda-rb/yabeda-puma-plugin): built-in metrics for [Puma](https://github.com/puma/puma) web server monitoring out of the box! Part of the [Yabeda](https://github.com/yabeda-rb/yabeda) suite.
 - [yabeda-rb/yabeda-http_requests](https://github.com/yabeda-rb/yabeda-http_requests): collect metrics of external HTTP/HTTPS requsts.
+- [dsalahutdinov/yabeda-delayed_job](https://github.com/dsalahutdinov/yabeda-delayed_job): built-in metrics for delayed job background workers.
+- [dsalahutdinov/yabeda-kafka](https://github.com/dsalahutdinov/yabeda-kafka): metrics for Kafka intergrations with [ruby-kafka](https://github.com/zendesk/ruby-kafka) gem.
+- [dsalahutdinov/yabeda-rack-attack](https://github.com/dsalahutdinov/yabeda-rack-attack): metrics, shownig how many requests are throtteled/blocked with Rack::Attack rules.
+- [browserslist/browserslist-useragent-ruby](https://github.com/browserslist/browserslist-useragent-ruby): use [Browserslist](https://github.com/browserslist/browserslist) config in a Ruby project to check user agent string.
 - [logux/logux_rails](https://github.com/logux/logux_rails), [logux/logux-rack](https://github.com/logux/logux-rack): Intergrate [Logux](https://logux.io/) within Rack/Rails application.
 - [dsalahutdinov/screenshot](https://github.com/dsalahutdinov/screenshot): browsers's screenshot generation HTTP-service. Written with Golang. Uses Headless Chrome.
 - [dsalahutdinov/activerecord-data_integrity](https://github.com/dsalahutdinov/activerecord-data_integrity): check data integrity for your ActiveRecord models.
 
-### Contributor
+### Some of my contributions:
 
 #### Ruby
 [mperham/sidekiq](https://github.com/mperham/sidekiq/commits?author=dsalahutdinov),
+[yabeda-rb/yabeda-sidekiq](https://github.com/yabeda-rb/yabeda-sidekiq/commits?author=dsalahutdinov),
 [ossert/ossert](https://github.com/ossert/ossert/commits?author=dsalahutdinov),
 [sferic/twitter](https://github.com/sferik/twitter/commits?author=dsalahutdinov),
-[yabeda-rb/yabeda-sidekiq](https://github.com/yabeda-rb/yabeda-sidekiq/commits?author=dsalahutdinov),
 [palkan/isolator](https://github.com/palkan/isolator/commits?author=dsalahutdinov),
 [palkan/anyway_config](https://github.com/palkan/anyway_config/commits?author=dsalahutdinov),
 [palkan/n_plus_one_control](https://github.com/palkan/n_plus_one_control/commits?author=dsalahutdinov),
@@ -90,13 +102,3 @@ You can find me on [github](https://github.com/dsalahutdinov),
 - ["Outdated browser detection with Browserslist"](https://dev.to/amplifr/outdated-browser-detection-with-browserslist-10co)
 - ["Purify code with data integrity: defaults and not-nulls"](https://dev.to/amplifr/purify-code-with-data-integrity-part-1-defaults-and-not-nulls-492p)
 - ["Concerns testing with anonymous controller"](https://dev.to/amplifr/testing-concerns-in-anonymous-controller-2e71)
-
-## About myself
-
-I am the passionate backend engineer with a mathematical background. I work as Lead Backend Developer for [Amplifr](https://amplifr.com/), the social media automation service.
-I'm mostly about technical stuff, but my other passion - is measurement: I love product development.
-
-I live in the middle of Russia, in a small village in the Ural Mountains. I love to enjoy nature and spending time with my family of 3 kids.
-
-As the Ruby developer, I am in OSS. I contribute as quite as a ninja, after midnight when all the children got asleep. 
-
