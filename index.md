@@ -23,6 +23,14 @@ You can find me on [github](https://github.com/dsalahutdinov),
 
 ## Conferences & Meetups (I spoke at)
 
+### 2024
+
+ - 2024/06/08 [RubyRussia 2024/10/02](https://t.me/ruby_russia/110) "Ruby-платформа: стандартизация подходов на масштабе" ([slides](https://bit.ly/ruby-platform-for-ruby-russia))
+ - 2024/09/18 [Evrone Ruby Meetup](https://t.me/meetups_evrone/80) "Делай меньше - получай больше: как принимать решения об оптимизациях" ([slides](https://bit.ly/db-query-optimization-decision-making), [video](https://youtu.be/1zXrmZKDQAU?si=HXD0Cd-g-jUD_VtH&t=1080))
+ - 2024/10/02 [SaintP Ruby Conference 2024](https://t.me/saintprubycommunity/97307/108136) "Strangler-паттерн для декомпозиции монолита" ([slides](https://bit.ly/strangler-pattern-slides), [video](https://www.youtube.com/live/rydit9m2890?si=89wuCzGTumL28z0Z&t=176))
+ - 2024/04/25 [Kuper Ruby Meetup](https://t.me/tech_kuper/846) "Transactional outbox для Ruby" ([slides](https://disk.yandex.ru/i/P6GNm6vNi3Y2sg), [video](https://www.youtube.com/watch?v=c0YEi81zViY&t=57s))
+ - 2024/02/29 [SaintP Ruby Meetup](https://t.me/saintprubycommunity/1/106503): "От монолита к микросервисам: аутентификация трафика" ([slides](https://disk.yandex.ru/i/ztiFblD5dpG3aQ), [video](https://www.youtube.com/live/mioIeWPHuTM?si=B0Ruv0s4C1bqUGvM&t=1830))
+
 ### 2021
 
 - [SaintP Ruby Conference](https://kommunity.com/saintpruby/events/summer-saint-p-rubyconf-2021-dbba253c) "Fullstack monitoring" ( [slides](https://speakerdeck.com/dsalahutdinov/fullstack-monitoring), [video](https://youtu.be/MIX8S3n9Nwc?t=22112) )
@@ -45,6 +53,8 @@ You can find me on [github](https://github.com/dsalahutdinov),
 ## Open Source (I contributed to)
 
 ### Author & Maintainer
+
+- [sbmt-strangler](https://github.com/Kuper-Tech/sbmt-strangler): Strangler-pattern implementation for Ruby
 - [yabeda-rb/yabeda-puma-plugin](https://github.com/yabeda-rb/yabeda-puma-plugin): built-in metrics for [Puma](https://github.com/puma/puma) web server monitoring out of the box! Part of the [Yabeda](https://github.com/yabeda-rb/yabeda) suite.
 - [yabeda-rb/yabeda-http_requests](https://github.com/yabeda-rb/yabeda-http_requests): collect metrics of external HTTP/HTTPS requsts.
 - [dsalahutdinov/yabeda-delayed_job](https://github.com/dsalahutdinov/yabeda-delayed_job): built-in metrics for delayed job background workers.
@@ -80,6 +90,10 @@ You can find me on [github](https://github.com/dsalahutdinov),
 [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold/commits?author=dsalahutdinov)
 
 ## Articles
+
+### 2024
+
+ - ["Как мы реализовали аутентификацию трафика для MSA на базе монолита"](https://habr.com/ru/companies/kuper/articles/808683/).
 
 ### 2020
 
