@@ -92,7 +92,7 @@ You can find me on [github](https://github.com/dsalahutdinov),
 ## Articles
 
 ### 2024
-
+ - ["Декомпозиция монолитной системы с использованием Strangler-паттерна"](https://habr.com/ru/companies/kuper/articles/849730/).
  - ["Как мы реализовали аутентификацию трафика для MSA на базе монолита"](https://habr.com/ru/companies/kuper/articles/808683/).
 
 ### 2020
