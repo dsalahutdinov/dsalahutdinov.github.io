@@ -25,7 +25,7 @@ You can find me on [github](https://github.com/dsalahutdinov),
 
 ### 2024
 
- - 2024/06/08 [RubyRussia 2024/10/02](https://t.me/ruby_russia/110) "Ruby-платформа: стандартизация подходов на масштабе" ([slides](https://bit.ly/ruby-platform-for-ruby-russia))
+ - 2024/06/08 [RubyRussia 2024/10/02](https://t.me/ruby_russia/110) "Ruby-платформа: стандартизация подходов на масштабе" ([slides](https://bit.ly/ruby-platform-for-ruby-russia), [youtube](https://www.youtube.com/watch?v=sgwq4U8cHu4), [rutube](https://rutube.ru/video/private/9e3ad5104175fe31956eddc0f7e613ad/?p=epmXSoTGqFYSpjfYNo4Eqg))
  - 2024/09/18 [Evrone Ruby Meetup](https://t.me/meetups_evrone/80) "Делай меньше - получай больше: как принимать решения об оптимизациях" ([slides](https://bit.ly/db-query-optimization-decision-making), [video](https://youtu.be/1zXrmZKDQAU?si=HXD0Cd-g-jUD_VtH&t=1080))
  - 2024/10/02 [SaintP Ruby Conference 2024](https://t.me/saintprubycommunity/97307/108136) "Strangler-паттерн для декомпозиции монолита" ([slides](https://bit.ly/strangler-pattern-slides), [video](https://www.youtube.com/live/rydit9m2890?si=89wuCzGTumL28z0Z&t=176))
  - 2024/04/25 [Kuper Ruby Meetup](https://t.me/tech_kuper/846) "Transactional outbox для Ruby" ([slides](https://disk.yandex.ru/i/P6GNm6vNi3Y2sg), [video](https://www.youtube.com/watch?v=c0YEi81zViY&t=57s))
