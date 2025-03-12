@@ -14,9 +14,7 @@ You can find me on [github](https://github.com/dsalahutdinov), [telegram](https:
 
 ## Conferences & Meetups (I spoke at)
 
-### 2024
-
- - 2025/02/14 [DumpSpb](https://dump-spb.ru/) - "Принципы стандартизации платформенного тулинга" ([slides](https://t.me/staff_plus/28))
+ - 2025/02/14 [DumpSpb](https://dump-spb.ru/) - "Принципы стандартизации платформенного тулинга" ([slides](https://t.me/staff_plus/28), [video](https://disk.yandex.ru/d/2XMdU1vaMKvTpw/Backend/%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B8%CC%86%20%D0%A1%D0%B0%D0%BB%D0%B0%D1%85%D1%83%D1%82%D0%B4%D0%B8%D0%BD%D0%BE%D0%B2.mp4))
  - 2024/10/02 [RubyRussia](https://t.me/ruby_russia/110) "Ruby-платформа: стандартизация подходов на масштабе" ([slides](https://bit.ly/ruby-platform-for-ruby-russia), [youtube](https://www.youtube.com/watch?v=sgwq4U8cHu4), [rutube](https://rutube.ru/video/private/9e3ad5104175fe31956eddc0f7e613ad/?p=epmXSoTGqFYSpjfYNo4Eqg))
  - 2024/09/18 [Evrone Ruby Meetup](https://t.me/meetups_evrone/80) "Делай меньше - получай больше: как принимать решения об оптимизациях" ([slides](https://bit.ly/db-query-optimization-decision-making), [video](https://youtu.be/1zXrmZKDQAU?si=HXD0Cd-g-jUD_VtH&t=1080))
  - 2024/06/08 [SaintP Ruby Conference 2024](https://t.me/saintprubycommunity/97307/108136) "Strangler-паттерн для декомпозиции монолита" ([slides](https://bit.ly/strangler-pattern-slides), [video](https://www.youtube.com/live/rydit9m2890?si=89wuCzGTumL28z0Z&t=176))
