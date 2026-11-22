@@ -1,10 +1,8 @@
-Ruby/Golang developer, Rust beginner, testing fan, simplicity propagandist.
+Principal engineer with a platform-engineering background. Currently I lead the graph platform team, researching graph technologies and applying them for the benefit of the product. Speaker at technical conferences, writer, OSS contributor and [mentor](https://getmentor.dev/mentor/dmitriy-salahutdinov-4452), author of the Telegram channel [Staff Engineer](https://t.me/staff_plus) - where I write about staff/principal engineer tasks and their solutions!
 
-I am the passionate backend-engineer with a mathematical background.
+Before that - years of platform and cross-domain work: modernizing legacy systems, decomposing Ruby monoliths with the strangler pattern, migrating subsystems to the cloud, improving reliability and performance under high load. Backed by a fundamental mathematical education (math & mechanics).
 
-I'm mostly about technical stuff, but my other passion - is measurement.
-
-As the Ruby developer, I am in OSS. I contribute as quite as a ninja, after midnight when all the children got asleep. 
+I hunt for technological bottlenecks and run measurement-driven projects.
 
 
 Email: dsalahutdinov@gmail.com
@@ -14,30 +12,30 @@ You can find me on [github](https://github.com/dsalahutdinov), [telegram](https:
 
 ## Conferences & Meetups (I spoke at)
 
- - 2025/02/14 [DumpSpb](https://dump-spb.ru/) - "Принципы стандартизации платформенного тулинга" ([slides](https://t.me/staff_plus/28), [video](https://disk.yandex.ru/d/2XMdU1vaMKvTpw/Backend/%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B8%CC%86%20%D0%A1%D0%B0%D0%BB%D0%B0%D1%85%D1%83%D1%82%D0%B4%D0%B8%D0%BD%D0%BE%D0%B2.mp4))
- - 2024/10/02 [RubyRussia](https://t.me/ruby_russia/110) "Ruby-платформа: стандартизация подходов на масштабе" ([slides](https://bit.ly/ruby-platform-for-ruby-russia), [youtube](https://www.youtube.com/watch?v=sgwq4U8cHu4), [rutube](https://rutube.ru/video/private/9e3ad5104175fe31956eddc0f7e613ad/?p=epmXSoTGqFYSpjfYNo4Eqg))
- - 2024/09/18 [Evrone Ruby Meetup](https://t.me/meetups_evrone/80) "Делай меньше - получай больше: как принимать решения об оптимизациях" ([slides](https://bit.ly/db-query-optimization-decision-making), [video](https://youtu.be/1zXrmZKDQAU?si=HXD0Cd-g-jUD_VtH&t=1080))
- - 2024/06/08 [SaintP Ruby Conference 2024](https://t.me/saintprubycommunity/97307/108136) "Strangler-паттерн для декомпозиции монолита" ([slides](https://bit.ly/strangler-pattern-slides), [video](https://www.youtube.com/live/rydit9m2890?si=89wuCzGTumL28z0Z&t=176))
- - 2024/04/25 [Kuper Ruby Meetup](https://t.me/tech_kuper/846) "Transactional outbox для Ruby" ([slides](https://disk.yandex.ru/i/P6GNm6vNi3Y2sg), [video](https://www.youtube.com/watch?v=c0YEi81zViY&t=57s))
- - 2024/02/29 [SaintP Ruby Meetup](https://t.me/saintprubycommunity/1/106503): "От монолита к микросервисам: аутентификация трафика" ([slides](https://disk.yandex.ru/i/ztiFblD5dpG3aQ), [video](https://www.youtube.com/live/mioIeWPHuTM?si=B0Ruv0s4C1bqUGvM&t=1830))
+- 2025/02/14 [DumpSpb](https://dump-spb.ru/) - "Принципы стандартизации платформенного тулинга" ([slides](https://t.me/staff_plus/28), [video](https://disk.yandex.ru/d/2XMdU1vaMKvTpw/Backend/%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B8%CC%86%20%D0%A1%D0%B0%D0%BB%D0%B0%D1%85%D1%83%D1%82%D0%B4%D0%B8%D0%BD%D0%BE%D0%B2.mp4))
+- 2024/10/02 [RubyRussia](https://t.me/ruby_russia/110) - "Ruby-платформа: стандартизация подходов на масштабе" ([slides](https://bit.ly/ruby-platform-for-ruby-russia), [youtube](https://www.youtube.com/watch?v=sgwq4U8cHu4), [rutube](https://rutube.ru/video/private/9e3ad5104175fe31956eddc0f7e613ad/?p=epmXSoTGqFYSpjfYNo4Eqg))
+- 2024/09/18 [Evrone Ruby Meetup](https://t.me/meetups_evrone/80) - "Делай меньше - получай больше: как принимать решения об оптимизациях" ([slides](https://bit.ly/db-query-optimization-decision-making), [video](https://youtu.be/1zXrmZKDQAU?si=HXD0Cd-g-jUD_VtH&t=1080))
+- 2024/06/08 [SaintP Ruby Conference 2024](https://t.me/saintprubycommunity/97307/108136) - "Strangler-паттерн для декомпозиции монолита" ([slides](https://bit.ly/strangler-pattern-slides), [video](https://www.youtube.com/live/rydit9m2890?si=89wuCzGTumL28z0Z&t=176))
+- 2024/04/25 [Kuper Ruby Meetup](https://t.me/tech_kuper/846) - "Transactional outbox для Ruby" ([slides](https://disk.yandex.ru/i/P6GNm6vNi3Y2sg), [video](https://www.youtube.com/watch?v=c0YEi81zViY&t=57s))
+- 2024/02/29 [SaintP Ruby Meetup](https://t.me/saintprubycommunity/1/106503) - "От монолита к микросервисам: аутентификация трафика" ([slides](https://disk.yandex.ru/i/ztiFblD5dpG3aQ), [video](https://www.youtube.com/live/mioIeWPHuTM?si=B0Ruv0s4C1bqUGvM&t=1830))
 
-- [SaintP Ruby Conference](https://kommunity.com/saintpruby/events/summer-saint-p-rubyconf-2021-dbba253c) "Fullstack monitoring" ( [slides](https://speakerdeck.com/dsalahutdinov/fullstack-monitoring), [video](https://youtu.be/MIX8S3n9Nwc?t=22112) )
+### Earlier talks
 
-- [RubyRussia](https://rubyrussia.club/), "Ruby & Enterprise development" discussion.
-- [RubyDay.it](https://2020.rubyday.it/) online: "Product metrics for developers", ( [video](https://www.youtube.com/watch?v=4E1tEH4NTZU&list=PLWK9j6ps_unl0S5Xmi6FVfDLFUkntQTfK&index=5) )
-- [DevTalks Romania Reimaged](https://www.devtalks.ro/) online: "Product metrics for developers"
-- [Saint P Ruby community Winter Meetup](https://kommunity.com/saintpruby/events/rubyday-2020): "Kubernetes native Ruby development" ( [slides](https://speakerdeck.com/dsalahutdinov/kubernetes-native-ruby-development), [video](https://youtu.be/H3SafkpBQ_w?t=9056) )
-  
-- [Stachka regional conference, Innopolis](https://nastachku.ru/): "Business impact driven development" at Startup section ( [slides](https://speakerdeck.com/dsalahutdinov/business-impact-driven-development) )
-- [RubyRussia](https://rubyrussia.club/): "Optimistic UI with Logux and Ruby" ( [slides](https://speakerdeck.com/dsalahutdinov/optimistic-ui-with-logux-and-ruby-rubyrussia), [video](https://www.youtube.com/watch?v=FjJ3hpBjSAE) )
-- [Saint P Ruby community Summer Meetup](https://kommunity.com/saintpruby/events/263287569): "(Business) Impact driven development", ( [slides](https://speakerdeck.com/dsalahutdinov/bidd), [video](https://youtu.be/sedwwviV23s?t=10378) )
-- [RubyConfBy](https://rubyconference.by/2019): "Optimistic UI with Logux & Ruby" ( [slides](https://speakerdeck.com/dsalahutdinov/optimistic-ui-with-logux-and-ruby), [video](https://www.youtube.com/watch?v=i_E-CeUb6ek) )
-- [Wroclove.rb](https://wrocloverb.com/): "Optimistic UI and Live updates with Logux and Ruby" ( [slides](https://speakerdeck.com/dsalahutdinov/optimistic-ui-and-live-updates-with-logux-and-ruby), [video](https://www.youtube.com/watch?v=KVcZAfjWtYk) )
+- [SaintP Ruby Conference](https://kommunity.com/saintpruby/events/summer-saint-p-rubyconf-2021-dbba253c) - "Fullstack monitoring" ([slides](https://speakerdeck.com/dsalahutdinov/fullstack-monitoring), [video](https://youtu.be/MIX8S3n9Nwc?t=22112))
+- [RubyRussia](https://rubyrussia.club/) - "Ruby & Enterprise development" discussion
+- [RubyDay.it](https://2020.rubyday.it/) online - "Product metrics for developers" ([video](https://www.youtube.com/watch?v=4E1tEH4NTZU&list=PLWK9j6ps_unl0S5Xmi6FVfDLFUkntQTfK&index=5))
+- [DevTalks Romania Reimaged](https://www.devtalks.ro/) online - "Product metrics for developers"
+- [Saint P Ruby community Winter Meetup](https://kommunity.com/saintpruby/events/rubyday-2020) - "Kubernetes native Ruby development" ([slides](https://speakerdeck.com/dsalahutdinov/kubernetes-native-ruby-development), [video](https://youtu.be/H3SafkpBQ_w?t=9056))
+- [Stachka regional conference, Innopolis](https://nastachku.ru/) - "Business impact driven development" at Startup section ([slides](https://speakerdeck.com/dsalahutdinov/business-impact-driven-development))
+- [RubyRussia](https://rubyrussia.club/) - "Optimistic UI with Logux and Ruby" ([slides](https://speakerdeck.com/dsalahutdinov/optimistic-ui-with-logux-and-ruby-rubyrussia), [video](https://www.youtube.com/watch?v=FjJ3hpBjSAE))
+- [Saint P Ruby community Summer Meetup](https://kommunity.com/saintpruby/events/263287569) - "(Business) Impact driven development" ([slides](https://speakerdeck.com/dsalahutdinov/bidd), [video](https://youtu.be/sedwwviV23s?t=10378))
+- [RubyConfBy](https://rubyconference.by/2019) - "Optimistic UI with Logux & Ruby" ([slides](https://speakerdeck.com/dsalahutdinov/optimistic-ui-with-logux-and-ruby), [video](https://www.youtube.com/watch?v=i_E-CeUb6ek))
+- [Wroclove.rb](https://wrocloverb.com/) - "Optimistic UI and Live updates with Logux and Ruby" ([slides](https://speakerdeck.com/dsalahutdinov/optimistic-ui-and-live-updates-with-logux-and-ruby), [video](https://www.youtube.com/watch?v=KVcZAfjWtYk))
 
 ## Articles
 
 ### 2024
- - ["Карьерный рост из senior: как вырасти в staff-инженера"](https://habr.com/ru/companies/kuper/articles/857482/).
+ - ["Карьерный рост из senior: как вырасти в staff-инженера"](https://habr.com/ru/companies/kuper/articles/857482/)
  - ["Карьерный рост из senior: кто такой staff-инженер?"](https://habr.com/ru/companies/kuper/articles/856224/).
  - ["Декомпозиция монолитной системы с использованием Strangler-паттерна"](https://habr.com/ru/companies/kuper/articles/849730/).
  - ["Как мы реализовали аутентификацию трафика для MSA на базе монолита"](https://habr.com/ru/companies/kuper/articles/808683/).
@@ -67,10 +65,9 @@ You can find me on [github](https://github.com/dsalahutdinov), [telegram](https:
 - [dsalahutdinov/yabeda-delayed_job](https://github.com/dsalahutdinov/yabeda-delayed_job): built-in metrics for delayed job background workers.
 - [dsalahutdinov/yabeda-kafka](https://github.com/dsalahutdinov/yabeda-kafka): metrics for Kafka integrations with [ruby-kafka](https://github.com/zendesk/ruby-kafka) gem.
 - [dsalahutdinov/yabeda-rack-attack](https://github.com/dsalahutdinov/yabeda-rack-attack): metrics, showing how many requests are throtteled/blocked with Rack::Attack rules.
-
 - and others: [browserslist/browserslist-useragent-ruby](https://github.com/browserslist/browserslist-useragent-ruby), [logux/logux_rails](https://github.com/logux/logux_rails), [logux/logux-rack](https://github.com/logux/logux-rack), [dsalahutdinov/screenshot](https://github.com/dsalahutdinov/screenshot), [dsalahutdinov/activerecord-data_integrity](https://github.com/dsalahutdinov/activerecord-data_integrity).
 
-### Some of my contributions:
+### Some of my contributions
 
 You can see all my contribution to OSS on my github page. They are mostly about Ruby/Golang.
 

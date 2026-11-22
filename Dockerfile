@@ -1,12 +1,5 @@
 FROM ruby:2.7
 
-
-RUN apt-get update -qq \
-    && apt-get install -yq --no-install-recommends \
-    build-essential \
-    less \
-    vim
-
 ENV LANG=C.UTF-8 \
   GEM_HOME=/bundle \
   BUNDLE_JOBS=4 \

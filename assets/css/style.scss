@@ -1,0 +1,18 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+header p {
+  display: none;
+}
+
+footer {
+  display: none;
+}
+
+header img {
+  height: auto;
+  border-radius: 10px;
+  margin: 0.5em 0 1em;
+}

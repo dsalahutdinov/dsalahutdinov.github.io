@@ -1,13 +1,11 @@
 title:              "Dmitry Salahutdinov"
-description:        "Dmitry Salahutdinov personal website"
-author_name:        "Dmitry Salahutdinov"
-logo_url:           assets/images/me.jpg
+logo:               assets/images/me.jpg
 
 # Site Settings
+theme:              jekyll-theme-minimal
 url:                https://dsalahutdinov.github.io
 permalink:          /:title
 timezone:           Asia/Yekaterinburg
-mathjax:            true
 
 highlighter:        rouge
 markdown:           kramdown
